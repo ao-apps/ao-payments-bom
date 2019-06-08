@@ -34,7 +34,7 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
 		datePublished="2019-06-02T15:22:28-0500"
-		dateModified="2019-06-07T16:18:30-0500"
+		dateModified="2019-06-08T16:35:37-0500"
 	>
 		<core:child page="changelog.jspx" />
 		<header>
@@ -43,7 +43,6 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 				arg.projectStatus="${currentPage.property.projectStatus}"
 				arg.managementStatus="${currentPage.property.managementStatus}"
 				arg.packagingStatus="${currentPage.property.packagingStatus}"
-				arg.javaVersion="${currentPage.property.javaVersion}"
 				arg.semanticVersioning="${currentPage.property.semanticVersioning}"
 				arg.license="${currentPage.property.license}"
 			/>
