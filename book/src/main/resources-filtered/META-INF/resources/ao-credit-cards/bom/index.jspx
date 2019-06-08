@@ -34,6 +34,7 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
 		datePublished="2019-06-02T15:22:28-0500"
+		dateModified="2019-06-07T16:18:30-0500"
 	>
 		<core:child page="changelog.jspx" />
 		<header>
@@ -58,7 +59,7 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 				<li><ao:a href="@{documented.scm.url}">GitHub</ao:a></li>
 			</ul>
 		</section:nav>
-		<section:section label="Modules Included">
+		<section:section label="Managed Dependencies">
 			<ul>
 				<li><core:link book="/ao-credit-cards/api" page="/index.jspx" /></li>
 				<li><core:link book="/ao-credit-cards/authorizeNet" page="/index.jspx" /></li>
