@@ -34,7 +34,7 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
 		datePublished="2019-06-02T15:22:28-0500"
-		dateModified="2019-06-08T16:35:37-0500"
+		dateModified="2019-06-10T02:16:04-0500"
 	>
 		<core:child page="changelog.jspx" />
 		<header>
@@ -60,6 +60,7 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 		</section:nav>
 		<section:section label="Managed Dependencies">
 			<ul>
+				<li><core:link book="/ao-credit-cards/all" page="/index.jspx" /></li>
 				<li><core:link book="/ao-credit-cards/api" page="/index.jspx" /></li>
 				<li><core:link book="/ao-credit-cards/authorizeNet" page="/index.jspx" /></li>
 				<li><core:link book="/ao-credit-cards/payflowPro" page="/index.jspx" /></li>

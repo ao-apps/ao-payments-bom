@@ -27,6 +27,7 @@ Bill of Materials (BOM) for credit card processing API supporting multiple payme
 * [GitHub](https://github.com/aoindustries/ao-credit-cards-bom)
 
 ## Managed Dependencies
+* [AO Credit Cards All](https://github.com/aoindustries/ao-credit-cards-all)
 * [AO Credit Cards API](https://github.com/aoindustries/ao-credit-cards-api)
 * [AO Credit Cards Authorize.Net](https://github.com/aoindustries/ao-credit-cards-authorizeNet)
 * [AO Credit Cards Payflow Pro XMLPay](https://github.com/aoindustries/ao-credit-cards-payflowPro)
