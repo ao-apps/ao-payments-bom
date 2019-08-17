@@ -36,7 +36,7 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2019-06-02T15:24:43-0500"
-		dateModified="2019-08-17T00:10:06-0500"
+		dateModified="2019-08-17T17:56:00-0500"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.aoindustries:ao-credit-cards-bom:pom.version}" />
@@ -55,6 +55,7 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 				<ul>
 					<li>Updated version of <core:link book="/ao-credit-cards/all" page="/index.jspx" />.</li>
 					<li>Updated version of <core:link book="/ao-credit-cards/authorizeNet" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/ao-credit-cards/stripe" page="/index.jspx" />.</li>
 					<li>Updated version of <core:link book="/ao-credit-cards/usaepay" page="/index.jspx" />.</li>
 				</ul>
 			</changelog:release>
