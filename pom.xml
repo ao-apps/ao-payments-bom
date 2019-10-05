@@ -60,10 +60,10 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 				<scope>import</scope>
 			</dependency>
 			<dependency>
-				<groupId>com.aoindustries</groupId><artifactId>ao-credit-cards-authorizeNet</artifactId><version>1.1.1-SNAPSHOT</version>
+				<groupId>com.aoindustries</groupId><artifactId>ao-credit-cards-authorizeNet</artifactId><version>1.1.1-POST-SNAPSHOT</version>
 			</dependency>
 			<dependency>
-				<groupId>com.aoindustries</groupId><artifactId>ao-credit-cards-authorizeNet</artifactId><version>1.1.1-SNAPSHOT</version>
+				<groupId>com.aoindustries</groupId><artifactId>ao-credit-cards-authorizeNet</artifactId><version>1.1.1-POST-SNAPSHOT</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
