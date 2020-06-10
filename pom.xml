@@ -123,6 +123,13 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
+			<!-- Report by versions:display-dependency-updates -->
+			<dependency>
+				<groupId>com.aoindustries</groupId><artifactId>ao-collections</artifactId><version>1.1.0${POST-SNAPSHOT}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.stripe</groupId><artifactId>stripe-java</artifactId><version>19.21.0</version>
+			</dependency>
 		</dependencies>
 	</dependencyManagement>
 </project>
