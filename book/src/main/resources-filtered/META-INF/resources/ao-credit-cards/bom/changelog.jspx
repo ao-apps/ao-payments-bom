@@ -37,7 +37,7 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2019-06-02T15:24:43-0500"
-		dateModified="2020-06-11T06:11:03-05:00"
+		dateModified="2020-09-02T17:48:22-05:00"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.aoindustries:ao-credit-cards-bom:pom.version}" />
@@ -52,7 +52,12 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 				groupId="@{project.groupId}"
 				artifactId="@{documented.artifactId}"
 				scmUrl="@{project.scm.url}"
-			/>
+			>
+				<ul>
+					<li>Updated version of <core:link book="/ao-credit-cards/all" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/ao-credit-cards/stripe" page="/index.jspx" />.</li>
+				</ul>
+			</changelog:release>
 		</c:if>
 
 		<changelog:release
