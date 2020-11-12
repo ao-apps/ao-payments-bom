@@ -128,7 +128,7 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 				<groupId>commons-validator</groupId><artifactId>commons-validator</artifactId><version>1.7</version>
 			</dependency>
 			<dependency>
-				<groupId>com.stripe</groupId><artifactId>stripe-java</artifactId><version>20.1.0</version>
+				<groupId>com.stripe</groupId><artifactId>stripe-java</artifactId><version>20.26.0</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
