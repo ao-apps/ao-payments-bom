@@ -29,7 +29,7 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 		<relativePath>../../ao-oss-parent/pom.xml</relativePath>
 	</parent>
 
-	<groupId>com.aoindustries</groupId><artifactId>ao-credit-cards-bom</artifactId><version>1.2.0-SNAPSHOT</version>
+	<groupId>com.aoindustries</groupId><artifactId>ao-credit-cards-bom</artifactId><version>1.2.0</version>
 	<packaging>pom</packaging>
 
 	<name>AO Credit Cards BOM</name>
@@ -41,7 +41,7 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 		<connection>scm:git:git://github.com/aoindustries/ao-credit-cards-bom.git</connection>
 		<developerConnection>scm:git:git@github.com:aoindustries/ao-credit-cards-bom.git</developerConnection>
 		<url>https://github.com/aoindustries/ao-credit-cards-bom</url>
-		<tag>HEAD</tag>
+		<tag>ao-credit-cards-bom-1.2.0</tag>
 	</scm>
 
 	<issueManagement>
