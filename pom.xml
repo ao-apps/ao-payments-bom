@@ -136,7 +136,7 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 			</dependency>
 			<!-- Reported by versions:display-dependency-updates -->
 			<dependency>
-				<groupId>com.aoindustries</groupId><artifactId>ao-lang</artifactId><version>4.15.0${POST-SNAPSHOT}</version>
+				<groupId>com.aoindustries</groupId><artifactId>ao-lang</artifactId><version>4.16.0${POST-SNAPSHOT}</version>
 			</dependency>
 			<dependency>
 				<groupId>com.stripe</groupId><artifactId>stripe-java</artifactId><version>20.40.0</version>
