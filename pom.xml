@@ -139,7 +139,7 @@ along with ao-credit-cards-bom.  If not, see <http://www.gnu.org/licenses />.
 				<groupId>com.aoindustries</groupId><artifactId>ao-lang</artifactId><version>4.17.0${POST-SNAPSHOT}</version>
 			</dependency>
 			<dependency>
-				<groupId>com.stripe</groupId><artifactId>stripe-java</artifactId><version>20.40.0</version>
+				<groupId>com.stripe</groupId><artifactId>stripe-java</artifactId><version>20.41.0</version>
 			</dependency>
 			<dependency>
 				<groupId>junit</groupId><artifactId>junit</artifactId><version>4.13.2</version>
