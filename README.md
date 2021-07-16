@@ -8,6 +8,11 @@
 
 [![Build](https://github.com/aoindustries/ao-payments-bom/workflows/Build/badge.svg?branch=master)](https://github.com/aoindustries/ao-payments-bom/actions?query=workflow%3ABuild)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.aoapps/ao-payments-bom/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.aoapps/ao-payments-bom)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?branch=master&project=com.aoapps%3Aao-payments-bom&metric=alert_status)](https://sonarcloud.io/dashboard?branch=master&id=com.aoapps%3Aao-payments-bom)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?branch=master&project=com.aoapps%3Aao-payments-bom&metric=ncloc)](https://sonarcloud.io/component_measures?branch=master&id=com.aoapps%3Aao-payments-bom&metric=ncloc)  
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?branch=master&project=com.aoapps%3Aao-payments-bom&metric=reliability_rating)](https://sonarcloud.io/component_measures?branch=master&id=com.aoapps%3Aao-payments-bom&metric=Reliability)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?branch=master&project=com.aoapps%3Aao-payments-bom&metric=security_rating)](https://sonarcloud.io/component_measures?branch=master&id=com.aoapps%3Aao-payments-bom&metric=Security)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?branch=master&project=com.aoapps%3Aao-payments-bom&metric=sqale_rating)](https://sonarcloud.io/component_measures?branch=master&id=com.aoapps%3Aao-payments-bom&metric=Maintainability)
 
 Bill of Materials (BOM) for payment processing API supporting multiple payment gateways.
 
