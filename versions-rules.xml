@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 ao-payments-bom - Bill of Materials (BOM) for payment processing API supporting multiple payment gateways.
-Copyright (C) 2020, 2021, 2022  AO Industries, Inc.
+Copyright (C) 2020, 2021, 2022, 2024  AO Industries, Inc.
     support@aoindustries.com
     7262 Bull Pen Cir
     Mobile, AL 36695
@@ -37,6 +37,11 @@ along with ao-payments-bom.  If not, see <https://www.gnu.org/licenses/>.
     <rule groupId="com.stripe" artifactId="stripe-java" comparisonMethod="maven">
       <ignoreVersions>
         <ignoreVersion type="regex">.*-beta\.[0-9]+</ignoreVersion>
+      </ignoreVersions>
+    </rule>
+    <rule groupId="org.hamcrest" comparisonMethod="maven">
+      <ignoreVersions>
+        <ignoreVersion type="regex">.*-rc[0-9]+</ignoreVersion>
       </ignoreVersions>
     </rule>
   </rules>
