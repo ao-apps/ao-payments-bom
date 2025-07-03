@@ -19,7 +19,7 @@ Bill of Materials (BOM) for payment processing API supporting multiple payment g
 ## Project Links
 * [Project Home](https://oss.aoapps.com/payments/bom/)
 * [Changelog](https://oss.aoapps.com/payments/bom/changelog)
-* [Maven Central Repository](https://central.sonatype.com/artifact/com.aoapps/ao-payments-bom)
+* [Central Repository](https://central.sonatype.com/artifact/com.aoapps/ao-payments-bom)
 * [GitHub](https://github.com/ao-apps/ao-payments-bom)
 
 ## Managed Dependencies
